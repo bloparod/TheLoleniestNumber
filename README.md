@@ -20,7 +20,10 @@ Solution:
 - The solution has complexity O(1);
 - Yes, I took advantage of the requirements written in a natural language as English.
 
+```
+// Javascript function
 // This works for all the arrays that are compliant with the input requirements
-function(number[] integerNumbers) {
-	return 1;
+function FindtheLoneliestNumber(integerNumbers) {
+    return 1;
 }
+```
